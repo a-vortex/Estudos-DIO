@@ -25,6 +25,7 @@ para realizar um commit com todas as alterações salvas e depois:
 ```
 git push
 ```
+para enviar as alterações para o repositório remoto.
 
 ## ⚠Sheet de comandos no terminal
 ```
