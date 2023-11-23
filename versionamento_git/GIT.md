@@ -46,4 +46,5 @@ git commit --amend -m"<novo comentário>"
 git reset --soft/mixed/hard <id do commit>
 git reflog
 git pull
+git checkout -b "nome"
 ```
